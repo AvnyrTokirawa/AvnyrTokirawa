@@ -6,6 +6,8 @@
 
 <h2 align="left">Salut 👋! Moi c'est Mathis, je suis Game Designer.</h2>
 
+*❗ La majorité de mes dépots de code sont en privé donc les statistiques ne sont pas très réalistes...*
+
 ###
 
 <div align="center">
